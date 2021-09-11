@@ -14,10 +14,10 @@ const data = [
         ttl:"Padangsidimpuan,8 Juli 2000",
     },
     {
-        nama: "Afrina",
-        nim: "211201181200xx",
-        email:"------",
-        ttl:"--------",
+        nama: "Afrina Ayu Insani",
+        nim: "21120118120006",
+        email:"afrinaayuinsani@gmail.com",
+        ttl:"Semarang,4 Juni 2000",
     },
 ];
 
